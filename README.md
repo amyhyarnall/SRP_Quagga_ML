@@ -1,5 +1,10 @@
+Release v1.0.0
+
+DOI: https://doi.org/10.5281/zenodo.17064326
+
 # SRP_Quagga_ML
-This repository contains data and R code associated with an article published in **Ecosphere (2025)**. 
+
+**Journal:** _Ecosphere_
 
 **Title:** Machine learning can refine models of environmental suitability and ecological associations for invasive quagga mussels
 
